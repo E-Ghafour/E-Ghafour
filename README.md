@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm a **Machine learning engineer** <br>🤩 interested in **Natural Language Processing**<br>🔭 I’m currently working on **Persian AI-generated Text Detection**<br>📫 How to reach me **e.ghafour2000@gmail.com**
+Hi 👋, I'm a **Machine learning engineer** <br>🤩 interested in **Natural Language Processing** and **Deep Learning**<br>🔭 I’m currently working on **Persian AI-generated Text Detection**<br>📫 How to reach me **e.ghafour2000@gmail.com**
 
 
 ## 🌐 Socials:
